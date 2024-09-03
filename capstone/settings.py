@@ -30,7 +30,8 @@ ALLOWED_HOSTS = [
     '127.0.0.1',
     'flight-web-app.herokuapp.com',
     #'clinton-anne-thrown-chart.trycloudflare.com'
-    'unknown-computers-enormous-smithsonian.trycloudflare.com'
+    'https://raviranjan530.github.io/Flight_Master'
+    
 ]
 
 
